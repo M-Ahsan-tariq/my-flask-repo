@@ -18,7 +18,7 @@ message of fitzone. The home page also allows the varity of options for diferent
 pages that are linked with each other
 <h3>Backend:</h3>
 Backend contain a home page created by using html and styled with CSS. In html there are text 
-and images and different pages that are linked each other using a function &lt;"<a href=""</a>&gt;and 
+and images and different pages that are linked each other using a function &lt;a href=""&lt;/a&gt;and 
 images were set by using &lt;"<img = scr"">&gt;
 <h3>Important functions:</h3>
 1) <a href=" "</a> --> to link different pages.
